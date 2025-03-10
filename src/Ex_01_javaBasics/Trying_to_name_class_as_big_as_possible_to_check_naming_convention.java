@@ -1,0 +1,4 @@
+package Ex_01_javaBasics;
+
+public class Trying_to_name_class_as_big_as_possible_to_check_naming_convention {
+}
