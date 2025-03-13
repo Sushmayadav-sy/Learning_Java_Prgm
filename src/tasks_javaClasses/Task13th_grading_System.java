@@ -18,7 +18,7 @@ public class Task13th_grading_System {
         System.out.println(score instanceof String);
         int grade = Integer.parseInt(score);
 
-        String result = (grade >= 90 && grade <=100) ? "A" : (grade>=80 && grade <=89) ? "B" : (grade>=70 && grade <=79) ? "C" : (grade>=60 && grade <=69) ? "D" : (grade>=0 && grade <=59) ? "F" : "Invalid output";
+        String result = (grade >= 90 && grade <=100) ? "A" : (grade>=80 && grade <=89) ? "B" : (grade>=70 && grade <=79) ? "C" : (grade>=60 && grade <=69) ? "D" : (grade>=0 && grade <=59) ? "F" : "Invalid Input, please input score between 0 to 100 only";
 
         System.out.println(result);
     }
