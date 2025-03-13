@@ -8,7 +8,7 @@ public class Lab0014_Variables {
 //        byte --> data type - type of container -
 //                b--> variable name --> identifier
 //                = --> assignment
-//        variable value = 10 -->
+//        variable value = 10 --> literal -> integer value
 
     }
 }
