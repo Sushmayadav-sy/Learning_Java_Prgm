@@ -1,11 +1,9 @@
-package ex_14_Strings;
+package ex_15_StringBuffer_Builder_StringFunctions;
 
-public class Lab147_SB {
+public class Lab146_SB {
     public static void main(String[] args) {
         StringBuilder stringBuilder = new StringBuilder("Sushma");
-        stringBuilder.append(" Yadav");
-        stringBuilder.reverse();
+        stringBuilder.append(123);
         System.out.println(stringBuilder);
-
     }
 }
