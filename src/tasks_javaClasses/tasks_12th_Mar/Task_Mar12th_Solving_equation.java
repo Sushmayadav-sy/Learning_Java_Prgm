@@ -1,6 +1,8 @@
-package tasks_javaClasses;
+package tasks_javaClasses.tasks_12th_Mar;
 
-public class Solving_equation {
+public class Task_Mar12th_Solving_equation {
+
+    //SOLVE THE EQUATION----->>  Cube root of (x square) + (y square) - |Z|
     public static void main(String[] args) {
         int x = 10;
         int y = 10;

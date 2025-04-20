@@ -1,8 +1,8 @@
-package tasks_javaClasses;
+package tasks_javaClasses.tasks_21st_Mar;
 
 import java.util.Scanner;
 
-public class Task21_VowelsInString {
+public class Task_Mar_21st_VowelsInString {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

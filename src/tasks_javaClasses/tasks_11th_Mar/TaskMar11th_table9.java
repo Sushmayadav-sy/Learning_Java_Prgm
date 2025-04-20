@@ -1,6 +1,6 @@
-package tasks_javaClasses;
+package tasks_javaClasses.tasks_11th_Mar;
 
-public class task_table9 {
+public class TaskMar11th_table9 {
 
         public static void main(String[] args) {
             int a =9;

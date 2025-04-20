@@ -1,6 +1,6 @@
-package tasks_javaClasses;
+package tasks_javaClasses.tasks_21st_Mar;
 
-public class Task21_FizzBuzzTest {
+public class Task_Mar_21st_FizzBuzzTest {
     public static void main(String[] args) {
 //        Write a program that prints numbers from 1 to 100.
 //        However, for multiples of 3, print "Fizz" instead of the number,

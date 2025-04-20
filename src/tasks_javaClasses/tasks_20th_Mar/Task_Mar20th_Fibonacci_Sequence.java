@@ -1,9 +1,9 @@
-package tasks_javaClasses;
+package tasks_javaClasses.tasks_20th_Mar;
 
 import java.util.Scanner;
 
 
-public class Fibonacci_Sequence {
+public class Task_Mar20th_Fibonacci_Sequence {
     public static void main(String[] args) {
         System.out.println("Please enter length fibonacci sequence");
         Scanner scanner = new Scanner(System.in);
