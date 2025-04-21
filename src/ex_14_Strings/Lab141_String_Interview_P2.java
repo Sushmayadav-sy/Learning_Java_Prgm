@@ -10,6 +10,8 @@ public class Lab141_String_Interview_P2 {
         String s3 = new String("hello");
         String s5 = new String("Hello");
 
+        // On (new class is used) Object area - there are 3 different strings are created
+
         // == -> Comparsion -> String -> this check the locations ref.
         System.out.println(s1 == s3);
         System.out.println(s1 == s2);

@@ -5,5 +5,7 @@ public class Lab139_Strings_Interview {
         String name = "Sushma";
         name = name.toUpperCase();
         System.out.println(name);
+
+        // Output--> SUSHMA
     }
 }

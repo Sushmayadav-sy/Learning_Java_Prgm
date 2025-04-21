@@ -74,7 +74,8 @@ public class Lab143_String_Functions {
         String anotherPalindrome = "Niagara. O roar again!";
         String roar = anotherPalindrome.substring(11, 15);
         System.out.println(roar);
-
+//sub string start assigning the values to string from 0
+        //now the output will be 11 to 15-1 index output
 
         String s11 = "Pramod";
         String s21 = s11.concat("Dutta");

@@ -5,7 +5,7 @@ public class Lab136_String_Creation {
 
 
 
-        String s1 = "Sushma"; // SCP
+        String s1 = "Sushma"; // SCP  --? String constant pool
 
         String s2 = new String("Sushma"); //OA - object area
 

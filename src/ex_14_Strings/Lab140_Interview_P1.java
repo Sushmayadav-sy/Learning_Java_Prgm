@@ -14,6 +14,8 @@ public class Lab140_Interview_P1 {
 
         System.out.println(s1);
 
+        // how many strings are present in SCP - answer is 1, There is no duplicates in SCP
+
 
     }
 }
